@@ -10,6 +10,7 @@ public class Rec {
         
         System.out.println(n);
         fun(n-1);
+        System.out.println(n);
         
     }
     
