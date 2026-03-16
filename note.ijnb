@@ -1,0 +1,21 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 5,
+  "metadata": {
+    "language_info": {
+      "name": "java"
+    }
+  },
+  "cells": [
+    {
+      "id": "ce91c1c4-b8a8-4bce-b568-c1d0fe7b389f",
+      "cell_type": "code",
+      "source": "hello\r\n",
+      "metadata": {
+        "language": "java"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
