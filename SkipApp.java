@@ -3,7 +3,7 @@ public class SkipApp{
  
 
     public static void main(String[] args) {
-        System.out.println(skipApp("bacappcha"));
+        System.out.println(skipApp("bacappcha , apple"));
     }
 
     static String skipApp(String str) {
