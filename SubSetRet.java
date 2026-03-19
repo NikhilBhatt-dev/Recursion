@@ -10,7 +10,7 @@ public class SubSetRet {
     static  ArrayList<String> subseqret(String p , String up){
         
         if(up.isEmpty()){
-            ArrayList<String> list = new ArrayList<>();
+            ArrayList<String> list = new ArrayList<String>();
            list.add(p);
             return list;
         }
