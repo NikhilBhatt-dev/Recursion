@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class SubSetRet {
     
    public static void main(String[] args) {
-       System.out.println( subseqret("", "nl") );
+       System.out.println( subseqret("", "nik") );
         
     }
     static  ArrayList<String> subseqret(String p , String up){
