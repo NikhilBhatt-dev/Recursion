@@ -13,6 +13,10 @@ public class Subset {
          
         subseq(p+ch, up.substring(1));
         subseq(p, up.substring(1));
+
+
+
+        
     }
     
 }
