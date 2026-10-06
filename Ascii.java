@@ -17,7 +17,7 @@ public class Ascii {
          
         subseqAscii(p+ch, up.substring(1));
         subseqAscii(p, up.substring(1));
-        subseqAscii(p + (ch+0), up.substring(1));  // ASCII include
+        subseqAscii(p + (ch+0), up.substring(1));  // ASCII Include
     }
     
 }
